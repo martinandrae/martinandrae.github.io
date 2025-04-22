@@ -48,6 +48,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-generative-modeling-summer-school-statlearn-in-sophia-antipolis-france",
           title: 'I attended the Generative Modeling Summer School / Statlearn in Sophia Antipolis, France....',
           description: "",
+          section: "News",},{id: "news-i-m-attending-iclr-2025-in-singapore",
+          title: 'I’m attending ICLR 2025 in Singapore.',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
