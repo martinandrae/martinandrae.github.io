@@ -31,7 +31,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/cont-ens/";
+            window.location.href = "/blog/2025/Continuous-Ensemble-Forecasting/";
           
         },
       },{id: "books-the-godfather",
@@ -48,8 +48,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-attended-the-generative-modeling-summer-school-statlearn-in-sophia-antipolis-france",
           title: 'I attended the Generative Modeling Summer School / Statlearn in Sophia Antipolis, France....',
           description: "",
-          section: "News",},{id: "news-i-m-attending-iclr-2025-in-singapore",
-          title: 'I’m attending ICLR 2025 in Singapore.',
+          section: "News",},{id: "news-i-m-attending-iclr-2025-in-singapore-let-me-know-if-you-want-to-meet-up",
+          title: 'I’m attending ICLR 2025 in Singapore. Let me know if you want to...',
           description: "",
           section: "News",},{
         id: 'social-email',
