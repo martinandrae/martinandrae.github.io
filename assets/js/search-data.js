@@ -51,6 +51,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-attending-iclr-2025-in-singapore-let-me-know-if-you-want-to-meet-up",
           title: 'I’m attending ICLR 2025 in Singapore. Let me know if you want to...',
           description: "",
+          section: "News",},{id: "news-i-presented-our-work-on-probabilistic-weather-forecasting-at-the-exclaim-symposium-at-eth-zurich",
+          title: 'I presented our work on probabilistic weather forecasting at the “EXCLAIM Symposium” at...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
