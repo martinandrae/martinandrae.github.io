@@ -54,8 +54,8 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-our-work-on-probabilistic-weather-forecasting-at-the-exclaim-symposium-at-eth-zurich",
           title: 'I presented our work on probabilistic weather forecasting at the “EXCLAIM Symposium” at...',
           description: "",
-          section: "News",},{id: "news-i-presented-our-upcoming-work-on-data-assimilation-at-the-quot-ai-for-science-workshop-quot-https-www-kva-se-en-event-ai-for-science-2-at-the-royal-academy-of-sciences-in-stockholm",
-          title: 'I presented our upcoming work on data assimilation at the [&amp;quot;AI for Science...',
+          section: "News",},{id: "news-i-presented-our-upcoming-work-on-data-assimilation-at-the-ai-for-science-workshop-at-the-royal-academy-of-sciences-in-stockholm",
+          title: 'I presented our upcoming work on data assimilation at the “AI for Science...',
           description: "",
           section: "News",},{
         id: 'social-email',
