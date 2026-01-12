@@ -1,6 +1,20 @@
 ---
 ---
 
+@misc{andrae2025daisi,
+      title={DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants}, 
+      author={Martin Andrae and Erik Larsson and So Takao and Tomas Landelius and Fredrik Lindsten},
+      year={2025},
+      eprint={2512.00252},
+      archivePrefix={arXiv},
+      primaryClass={stat.ML},
+      pdf={https://arxiv.org/abs/2512.00252}, 
+      abstract={Data assimilation (DA) is a cornerstone of scientific and engineering applications, combining model forecasts with sparse and noisy observations to estimate latent system states. Classical DA methods, such as the ensemble Kalman filter, rely on Gaussian approximations and heuristic tuning (e.g., inflation and localization) to scale to high dimensions. While often successful, these approximations can make the methods unstable or inaccurate when the underlying distributions of states and observations depart significantly from Gaussianity. To address this limitation, we introduce DAISI, a scalable filtering algorithm built on flow-based generative models that enables flexible probabilistic inference using data-driven priors. The core idea is to use a stationary, pre-trained generative prior to assimilate observations via guidance-based conditional sampling while incorporating forecast information through a novel inverse-sampling step. This step maps the forecast ensemble into a latent space to provide initial conditions for the conditional sampling, allowing us to encode model dynamics into the DA pipeline without having to retrain or fine-tune the generative prior at each assimilation step. Experiments on challenging nonlinear systems show that DAISI achieves accurate filtering results in regimes with sparse, noisy, and nonlinear observations where traditional methods struggle.},
+      bibtex_show={true},
+      preview = {daisi.png},
+      selected={true},
+}
+
 @inproceedings{andrae2025continuous,
   title={Continuous Ensemble Weather Forecasting with Diffusion models},
   author={Martin Andrae and Tomas Landelius and Joel Oskarsson and Fredrik Lindsten},
@@ -14,18 +28,4 @@
   blog={https://martinandrae.github.io/blog/2025/Continuous-Ensemble-Forecasting/},
   code={https://github.com/martinandrae/Continuous-Ensemble-Forecasting},
   poster={cont-ens-poster.pdf},
-}
-
-@misc{andrae2025daisi,
-      title={DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants}, 
-      author={Martin Andrae and Erik Larsson and So Takao and Tomas Landelius and Fredrik Lindsten},
-      year={2025},
-      eprint={2512.00252},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      pdf={https://arxiv.org/abs/2512.00252}, 
-      abstract={Data assimilation (DA) is a cornerstone of scientific and engineering applications, combining model forecasts with sparse and noisy observations to estimate latent system states. Classical DA methods, such as the ensemble Kalman filter, rely on Gaussian approximations and heuristic tuning (e.g., inflation and localization) to scale to high dimensions. While often successful, these approximations can make the methods unstable or inaccurate when the underlying distributions of states and observations depart significantly from Gaussianity. To address this limitation, we introduce DAISI, a scalable filtering algorithm built on flow-based generative models that enables flexible probabilistic inference using data-driven priors. The core idea is to use a stationary, pre-trained generative prior to assimilate observations via guidance-based conditional sampling while incorporating forecast information through a novel inverse-sampling step. This step maps the forecast ensemble into a latent space to provide initial conditions for the conditional sampling, allowing us to encode model dynamics into the DA pipeline without having to retrain or fine-tune the generative prior at each assimilation step. Experiments on challenging nonlinear systems show that DAISI achieves accurate filtering results in regimes with sparse, noisy, and nonlinear observations where traditional methods struggle.},
-      bibtex_show={true},
-      review = {daisi.png},
-      selected={true},
 }
