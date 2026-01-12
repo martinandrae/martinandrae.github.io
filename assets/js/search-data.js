@@ -57,6 +57,9 @@ ninja.data = [{
           section: "News",},{id: "news-i-presented-our-upcoming-work-on-data-assimilation-at-the-ai-for-science-workshop-at-the-royal-academy-of-sciences-in-stockholm",
           title: 'I presented our upcoming work on data assimilation at the “AI for Science...',
           description: "",
+          section: "News",},{id: "news-our-preprint-daisi-data-assimilation-with-inverse-sampling-using-stochastic-interpolants-is-now-on-arxiv",
+          title: 'Our preprint “DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants” is now...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
