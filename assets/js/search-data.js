@@ -60,6 +60,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-preprint-daisi-data-assimilation-with-inverse-sampling-using-stochastic-interpolants-is-now-on-arxiv",
           title: 'Our preprint “DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants” is now...',
           description: "",
+          section: "News",},{id: "news-daisi-data-assimilation-with-inverse-sampling-using-stochastic-interpolants-has-been-accepted-to-icml-2026",
+          title: '“DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants” has been accepted to...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
