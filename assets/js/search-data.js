@@ -63,6 +63,12 @@ ninja.data = [{
           section: "News",},{id: "news-daisi-data-assimilation-with-inverse-sampling-using-stochastic-interpolants-has-been-accepted-to-icml-2026",
           title: '“DAISI: Data Assimilation with Inverse Sampling using Stochastic Interpolants” has been accepted to...',
           description: "",
+          section: "News",},{id: "news-our-preprint-sdecast-probabilistic-weather-forecasting-in-continuous-time-with-neural-sdes-is-now-on-arxiv-and-has-been-accepted-to-the-ai-for-stochastic-dynamics-oral-and-sim2science-workshops-at-neurips-2026",
+          title: 'Our preprint “SDECast: Probabilistic Weather Forecasting in Continuous Time with Neural SDEs” is...',
+          description: "",
+          section: "News",},{id: "news-our-preprint-dawis-data-assimilation-with-windowed-inverse-sampling-via-multitask-interpolants-is-now-on-arxiv",
+          title: 'Our preprint “DAWIS: Data Assimilation with Windowed Inverse Sampling via Multitask Interpolants” is...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
